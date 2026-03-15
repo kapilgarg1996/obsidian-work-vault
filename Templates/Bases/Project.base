@@ -1,0 +1,13 @@
+filters:
+  and:
+    - '!file.name.contains("Template")'
+    - '!file.ext.endsWith("base")'
+    - categories == ["[[Project]]"]
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - created
+      - due
+      - people

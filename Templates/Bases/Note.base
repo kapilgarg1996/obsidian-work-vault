@@ -1,0 +1,26 @@
+filters:
+  and:
+    - '!file.name.contains("Template")'
+    - '!file.ext.endsWith("base")'
+    - categories.contains("Note")
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.links.contains(this)
+    order:
+      - file.name
+      - file.ctime
+  - type: table
+    name: Project
+    filters:
+      and:
+        - file.hasLink(this)
+    order:
+      - file.name
+      - file.ctime
+      - tags
+    sort:
+      - property: created
+        direction: DESC

@@ -1,0 +1,364 @@
+{
+  "main": {
+    "id": "628f61679825d96e",
+    "type": "split",
+    "children": [
+      {
+        "id": "22dd35d497d84ddb",
+        "type": "tabs",
+        "dimension": 66.86851211072664,
+        "children": [
+          {
+            "id": "eb157a44700641fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kapil.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kapil"
+            }
+          },
+          {
+            "id": "5ce676dc523ac3e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/People Template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "People Template"
+            }
+          },
+          {
+            "id": "fd299c1c511ef3a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meeting with kapil.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Meeting with kapil"
+            }
+          },
+          {
+            "id": "b8271ff6d8a037dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Project Template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Project Template"
+            }
+          },
+          {
+            "id": "11a9bf90cd96a59b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Random.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Project Random"
+            }
+          },
+          {
+            "id": "5352543ebca400b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Random.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Project Random"
+            }
+          },
+          {
+            "id": "e22d5401dd2cc8a6",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Templates/Bases/Project.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Project"
+            }
+          },
+          {
+            "id": "7bec9ebf69eb2f08",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Templates/Bases/Note.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Note"
+            }
+          },
+          {
+            "id": "ce4b9dde756ddf0b",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Templates/Bases/Daily.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Daily"
+            }
+          },
+          {
+            "id": "e8990432241491bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Random.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Project Random"
+            }
+          }
+        ],
+        "currentTab": 9
+      },
+      {
+        "id": "91fde5c812fe7181",
+        "type": "tabs",
+        "dimension": 33.13148788927336,
+        "children": [
+          {
+            "id": "d7883e09193221a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-03-14.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-14"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "469c6ebe098cd3ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9f3e9ff4f6be2e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15d476ecfbd47304",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8c2f1e94d444d3ae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3542e9b87a596382",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d9ad7d5967479922",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b7c2fad003767be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d42076dd6c70a3b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Kapil.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Kapil"
+            }
+          },
+          {
+            "id": "f8ee21cdfaf63375",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Kapil.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Kapil"
+            }
+          },
+          {
+            "id": "1c362701feab6836",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5df95e81f79666ce",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9e46a2a906639261",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Kapil.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Kapil"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "zk-prefixer:Create new unique note": false
+    }
+  },
+  "active": "e8990432241491bc",
+  "lastOpenFiles": [
+    "Kapil.md",
+    "Templates/Bases/Meetings.base",
+    "Templates/People Template.md",
+    "Templates/Project Template.md",
+    "Project Random.md",
+    "Meeting with kapil.md",
+    "2026-03-15 1546.md",
+    "Templates/Bases/Project.base",
+    "Templates/Bases/People.base",
+    "Templates/Bases/Note.base",
+    "Templates/Bases/Idea.base",
+    "Templates/Idea Template.md",
+    "Templates/Bases/Daily.base",
+    "2026-03-15.md",
+    "2026-03-14.md",
+    "Note regarding random project.md",
+    "Templates/Unique Note Template.md",
+    "Templates/Daily Note Template.md",
+    "Templates/Meeting Template.md",
+    "2026-03-15 0016.md",
+    "2026-03-14 2356.md",
+    "2026-03-14 2354.md",
+    "2026-03-14 2345.md",
+    "2026-03-14 2344.md",
+    "Project.md",
+    "Templates/Bases/People Base.md",
+    "Templates/Bases",
+    "Templates"
+  ]
+}

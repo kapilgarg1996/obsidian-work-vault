@@ -1,0 +1,16 @@
+filters:
+  or:
+    - file.name.contains(this.file.name)
+    - created.toString().contains(this.file.name)
+    - start.toString().contains(this.file.name)
+    - end.toString().contains(this.file.name)
+    - file.links.contains(this.file)
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.name != this.file.name
+    order:
+      - file.name
+      - file.ctime
